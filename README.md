@@ -1,5 +1,9 @@
 # gitgut
 
+## Koolituse materjalid
+
+Slaidid: <a src="shorturl.at/gpARU" />
+
 ## Useful links / theory
 
 Understand the lingo of the stages:
